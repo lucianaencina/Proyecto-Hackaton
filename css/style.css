@@ -1,0 +1,44 @@
+body {
+    margin: 10px;
+    background-color: #AEADF0;
+}
+
+nav.navbar {
+    background-color: #98C1D9;
+    color: black;
+    font-weight: bolder;
+}
+
+p {
+    line-height: 3;
+}
+
+.uno {
+    margin-bottom: 50px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    margin: 10px 40px;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+div.thumbnail {
+    height: 500px;
+    background-color: #F9DBF1; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    border: solid 2px rgb(96, 210, 245);
+ }
+
+
+
+
+
+
+
