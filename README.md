@@ -1,9 +1,11 @@
 # Webstore
 ## Primer proyecto realizado utilizando HTML5, CSS3 y librería Bootstrap. 
 
-La idea era a partir de ciertas consignas dadas por Plataforma 5, hacer un sitio online para una tienda. Aprovechar la librería Bootstrap para las apariencias que requería el proyecto.
+Objetivo: Crear un sitio web con tema "tienda" utilizando HTML, CSS y Bootstrap.
 
-En el sitio web uno puede ir a la sección "libros" o " discos" desde la pestaña "productos", ver todos los productos mediante un boton y agregar más productos mediante un formulario. 
-
-
+Requisitos: 
+1.Tener una sección para cada articulo y poder acceder a la misma. 
+2.Poder agregar productos mediante formularios.
+3.El boton de inicio siempre redirija a la página principal.
+4.Cada producto tiene que tener el mismo tamaño y formato.
 
