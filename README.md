@@ -13,3 +13,6 @@ Requisitos:
 
 4.Cada producto tiene que tener el mismo tamaño y formato.
 
+
+##### El producto final es una tienda online a la cual se puede acceder a distintas secciones. Desde la pestaña "Productos" se puede ingresar a la sección "libros" o "discos", con un boton se puede ver todos los productos a la vez y mediante un formulario, se puede agregar productos.
+
