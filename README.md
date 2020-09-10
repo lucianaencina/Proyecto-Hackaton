@@ -4,6 +4,7 @@
 Objetivo: Crear un sitio web con tema "tienda" utilizando HTML, CSS y Bootstrap.
 
 Requisitos: 
+
 1.Tener una sección para cada articulo y poder acceder a la misma. 
 
 2.Poder agregar productos mediante formularios.
